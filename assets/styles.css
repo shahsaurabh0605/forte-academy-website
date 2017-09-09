@@ -1,0 +1,51 @@
+.navigation {
+    background-color: #613C33;
+    font-size: 40px;
+}
+
+nav ul a {
+    font-size: 20px;
+    padding: 0 30px;
+}
+
+.home-text {
+    font-size: 13px;
+    line-height: 1.6;
+    color: #FFF;
+}
+
+img {
+    position: relative;
+    height: 91%;
+    width: 100%;
+    -webkit-filter: opacity(50%);
+}
+
+
+.text-image { 
+   position: relative; 
+   width: 100%;
+}
+
+h3 { 
+   position: absolute; 
+   top: 70px; 
+   text-align: center; 
+   width: 100%;
+   font-size:24px;
+   font-family: GillSans, Calibri, Trebuchet, sans-serif;
+   text-decoration: underline;
+}
+
+p{
+    position: absolute;
+    top: 120px;
+        display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-family: GillSans, Calibri, Trebuchet, sans-serif;
+}
